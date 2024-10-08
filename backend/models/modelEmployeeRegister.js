@@ -15,4 +15,5 @@ let schema1 = new mongoose.Schema({
 
 let modelEmployeeRegister = mongoose.model("modelEmployeeRegister1", schema1);
 
+
 module.exports = modelEmployeeRegister;
